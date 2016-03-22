@@ -1,4 +1,10 @@
 <resources>
     <string name="app_name">Dividers</string>
     <string name="action_settings">Settings</string>
+    <string name="movies_title">Movies</string>
+    <string name="books_title">Books</string>
+    <string name="best_movies_title">Movies by rating</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="cover_content_description">Cover</string>
+    <string name="rating_by_100">/100</string>
 </resources>
