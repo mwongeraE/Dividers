@@ -78,7 +78,7 @@ public class GridFragment extends Fragment {
                 new AllGroupSelector(),
                 DividerBuilder.from(darkDrawable).build());
         Layer highRatedLayer = new Layer(
-                new HighRatingMovieSelector(movies, HIGH_RATING_THRESHOLD),
+                new MovieSelector(movies, HIGH_RATING_THRESHOLD),
                 DividerBuilder.from(highlightedDrawable).build());
         Collection<Layer> layers =
                 LayersBuilder.with(defaultLayer, externalLayer, highRatedLayer).build();
