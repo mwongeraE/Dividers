@@ -2,7 +2,6 @@ package com.example.mwongera.dividers;
 
 import com.karumi.dividers.Direction;
 import com.karumi.dividers.Position;
-import com.karumi.dividers.sample.grid.model.Movie;
 import com.karumi.dividers.selector.Selector;
 import java.util.EnumSet;
 import java.util.List;
